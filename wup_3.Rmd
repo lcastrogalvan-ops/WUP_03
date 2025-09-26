@@ -46,6 +46,14 @@ However, the standard deviation of the people sitting in the back is the highest
 
 ## Inferential Tests
 
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+
+When looking at the P-value which was about 0.000116, I noticed that it is really small and tells me that there is a big statistical difference between the values.  
+
+
 ## Conclusions
 
 
