@@ -61,4 +61,4 @@ At the 95% confidence level, I examined the confidence intervals for the Front-B
 
 ## Conclusions
 
-
+In today’s lesson, I worked with numerical categorical data with multiple categories, using my helper file for the necessary numerical and inferential results. The numerical data showed the number of people in the front, middle, and back rows, with the middle row having the most at 89. I also calculated standard deviations, finding the back row had the highest at 12.58. The inferential results gave a very small P-value (0.000116), indicating significant differences. A 95% confidence interval chart showed that Front-Back and Middle-Back seats are significantly different, while 0 falls within the Middle-Front interval, indicating no significant difference there.
